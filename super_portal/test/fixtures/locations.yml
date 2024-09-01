@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+condesa: 
+  name: Distrito Federal, Cuauhtémoc, Condesa
+polanco: 
+  name: Distrito Federal, Miguel Hidalgo, Polanco
+

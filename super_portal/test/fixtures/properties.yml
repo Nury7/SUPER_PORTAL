@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+simpson_house:
+  published: true
+  title: Springfield House
+  description: Beautiful house located in Springfield
+  location: condesa
+  external_id: EB-111
